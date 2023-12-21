@@ -1,9 +1,0 @@
-title: sofia page
-description: sofia evstropova page 
-repository: edmundtale/edmundtale.github.io
-author:        edmund tale
-url:           "https://edmundtale.github.io/"
-
-remote_theme: pages-themes/neumorphism
-plugins:
-- jekyll-remote-theme
