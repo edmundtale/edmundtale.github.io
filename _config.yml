@@ -1,9 +1,9 @@
-title: edmundtale
-description: edmundtale web site 
+title: sofia page
+description: sofia evstropova page 
 repository: edmundtale/edmundtale.github.io
 author:        edmund tale
 url:           "https://edmundtale.github.io/"
 
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/neumorphism
 plugins:
 - jekyll-remote-theme
