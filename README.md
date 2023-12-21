@@ -1,2 +1,2 @@
 # 
-# [Edmund Tale Website](https://edmundtale.github.io/)
+# [Page of Sophia](https://edmundtale.github.io/)
